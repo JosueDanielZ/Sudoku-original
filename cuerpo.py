@@ -17,8 +17,5 @@ class Cuerpo():
         for filas in self.cuerpo_s:
             print(filas)
 
-cuerpo_sudoku = Cuerpo()
-cuerpo_sudoku.iniciar_cuerpo()
-cuerpo_sudoku.recorrer_sudoku()
 
 
